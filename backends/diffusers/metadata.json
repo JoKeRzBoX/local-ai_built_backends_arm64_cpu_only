@@ -1,0 +1,6 @@
+{
+  "meta_backend_for": "cpu-diffusers",
+  "name": "diffusers",
+  "gallery_url": "github:mudler/LocalAI/backend/index.yaml@master",
+  "installed_at": "2026-03-25T04:57:45Z"
+}
